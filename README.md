@@ -37,9 +37,10 @@ Features
 - Add Calibrate Button (with Height value)
 - Add Column Headers
 - Add Barometer Integration
-- Add Tuning Page
-- Add Vision ON/OFF Buttons
 - Add Sidebar menu
+- Add Tuning Page
+- Add Logs Page
+- Add Vision ON/OFF Buttons
 
 Bugs
 - Fix Spacing on all platforms/devices (Make buttons resize based on screen dimensions)
