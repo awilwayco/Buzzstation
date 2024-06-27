@@ -31,6 +31,7 @@ Features
 Features
 - Add Auto Button
 - Add Virtual Joysticks for the app and test performance and functionality when multiple blimps are being controlled
+- Add Full Controller Functionality for web and app users
 - Add State Machine text (with dropdown)
 - Add All Auto and All Manual Buttons
 - Add Calibrate Button (with Height value)
